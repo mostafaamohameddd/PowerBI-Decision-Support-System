@@ -21,7 +21,7 @@ The main goal of this project is to demonstrate:
 ---
 
 ##  Dataset
-- **File name:** `Data analysis training.csv`
+
 - **Description:**  
   The dataset contains structured records used for analytical and reporting purposes.
 - **Data type:** CSV
