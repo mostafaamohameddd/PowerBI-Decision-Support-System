@@ -133,6 +133,37 @@ The Power BI report includes:
 - Filters and slicers
 - Trend and comparison analysis
 
+##  Dashboard Screenshots
+
+Below are selected screenshots from the Power BI Decision Support System dashboard, highlighting key analytical views and insights.
+
+###  Overall Churn Overview
+This view presents high-level KPIs including total customers, churned customers, and churn rate, providing an executive summary of overall churn performance.
+
+![Overall Churn Overview](screenshots/churn_overview.png)
+
+---
+
+###  Churn by Contract & Payment
+This section analyzes churn patterns across different contract types and payment methods, highlighting the impact of pricing models and customer commitment on churn behavior.
+
+![Churn by Contract and Payment](screenshots/contract_payment_analysis.png)
+
+---
+
+### 🔹 Demographics & Usage Analysis
+This dashboard view focuses on customer demographics and usage behavior, including age groups, senior status, data consumption, and unlimited plan impact.
+
+![Demographics and Usage](screenshots/demographics_usage.png)
+
+---
+
+### 🔹 Churn Reasons & Geographic Distribution
+This view provides insights into churn reasons and geographic patterns, helping identify regional churn concentration and root causes such as competition, pricing, and service quality.
+
+![Churn Reasons and Geography](screenshots/churn_reasons_geo.png)
+
+
 
 ---
 
