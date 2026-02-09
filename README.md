@@ -140,31 +140,34 @@ Below are selected screenshots from the Power BI Decision Support System dashboa
 ###  Overall Churn Overview
 This view presents high-level KPIs including total customers, churned customers, and churn rate, providing an executive summary of overall churn performance.
 
-![Overall Churn Overview]()
+<img width="1166" height="649" alt="churn_overview" src="https://github.com/user-attachments/assets/e6b2764b-c763-4aa5-aa41-00d2f9affcc7" />
 
 ---
 
 ###  Churn by Contract & Payment
 This section analyzes churn patterns across different contract types and payment methods, highlighting the impact of pricing models and customer commitment on churn behavior.
-<img width="1166" height="649" alt="churn_overview" src="https://github.com/user-attachments/assets/8d738e10-c890-40e3-ade8-4844163d4371" />
 
 
+
+<img width="1117" height="636" alt="contract_payment_analysis" src="https://github.com/user-attachments/assets/d7f45878-fd4f-4866-ae38-11d24997b87d" />
 
 ---
 
 ### 🔹 Demographics & Usage Analysis
 This dashboard view focuses on customer demographics and usage behavior, including age groups, senior status, data consumption, and unlimited plan impact.
 
-![Demographics and Usage](screenshots/demographics_usage.png)
 
----
+
+---<img width="1177" height="658" alt="demographics_usage" src="https://github.com/user-attachments/assets/f7711c46-9362-46dd-99fd-d34c9d125827" />
+
 
 ### 🔹 Churn Reasons & Geographic Distribution
 This view provides insights into churn reasons and geographic patterns, helping identify regional churn concentration and root causes such as competition, pricing, and service quality.
 
-![Churn Reasons and Geography](screenshots/churn_reasons_geo.png)
 
 
+
+<img width="1160" height="650" alt="hurn_reasons_geo" src="https://github.com/user-attachments/assets/96a6ccdc-848b-48ba-9fb9-252ca92b14e0" />
 
 ---
 
