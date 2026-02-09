@@ -140,14 +140,15 @@ Below are selected screenshots from the Power BI Decision Support System dashboa
 ###  Overall Churn Overview
 This view presents high-level KPIs including total customers, churned customers, and churn rate, providing an executive summary of overall churn performance.
 
-![Overall Churn Overview](screenshots/churn_overview.png)
+![Overall Churn Overview]()
 
 ---
 
 ###  Churn by Contract & Payment
 This section analyzes churn patterns across different contract types and payment methods, highlighting the impact of pricing models and customer commitment on churn behavior.
+<img width="1166" height="649" alt="churn_overview" src="https://github.com/user-attachments/assets/8d738e10-c890-40e3-ade8-4844163d4371" />
 
-![Churn by Contract and Payment](screenshots/contract_payment_analysis.png)
+
 
 ---
 
