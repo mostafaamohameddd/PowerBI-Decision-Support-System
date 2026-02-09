@@ -91,7 +91,7 @@ Churn Reason – Detailed reason behind customer churn (e.g. competitor offers, 
 
 This enables root-cause analysis rather than just churn detection.
 
-🎯 Analytical Value
+ Analytical Value
 
 This dataset supports:
 
